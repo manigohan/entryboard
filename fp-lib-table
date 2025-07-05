@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "${KIPRJMOD}/USB-C-Power-tester.pretty")(options "")(descr ""))
+)
